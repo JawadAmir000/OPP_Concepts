@@ -1,0 +1,15 @@
+F:\learning opp in c#\Object Oriented Programming Concepts\bin\Debug\net6.0\Object Oriented Programming Concepts.exe
+F:\learning opp in c#\Object Oriented Programming Concepts\bin\Debug\net6.0\Object Oriented Programming Concepts.deps.json
+F:\learning opp in c#\Object Oriented Programming Concepts\bin\Debug\net6.0\Object Oriented Programming Concepts.runtimeconfig.json
+F:\learning opp in c#\Object Oriented Programming Concepts\bin\Debug\net6.0\Object Oriented Programming Concepts.dll
+F:\learning opp in c#\Object Oriented Programming Concepts\bin\Debug\net6.0\Object Oriented Programming Concepts.pdb
+F:\learning opp in c#\Object Oriented Programming Concepts\obj\Debug\net6.0\Object Oriented Programming Concepts.csproj.AssemblyReference.cache
+F:\learning opp in c#\Object Oriented Programming Concepts\obj\Debug\net6.0\Object Oriented Programming Concepts.GeneratedMSBuildEditorConfig.editorconfig
+F:\learning opp in c#\Object Oriented Programming Concepts\obj\Debug\net6.0\Object Oriented Programming Concepts.AssemblyInfoInputs.cache
+F:\learning opp in c#\Object Oriented Programming Concepts\obj\Debug\net6.0\Object Oriented Programming Concepts.AssemblyInfo.cs
+F:\learning opp in c#\Object Oriented Programming Concepts\obj\Debug\net6.0\Object Oriented Programming Concepts.csproj.CoreCompileInputs.cache
+F:\learning opp in c#\Object Oriented Programming Concepts\obj\Debug\net6.0\Object Oriented Programming Concepts.dll
+F:\learning opp in c#\Object Oriented Programming Concepts\obj\Debug\net6.0\refint\Object Oriented Programming Concepts.dll
+F:\learning opp in c#\Object Oriented Programming Concepts\obj\Debug\net6.0\Object Oriented Programming Concepts.pdb
+F:\learning opp in c#\Object Oriented Programming Concepts\obj\Debug\net6.0\Object Oriented Programming Concepts.genruntimeconfig.cache
+F:\learning opp in c#\Object Oriented Programming Concepts\obj\Debug\net6.0\ref\Object Oriented Programming Concepts.dll
